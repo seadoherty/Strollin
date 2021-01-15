@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    background: radial-gradient(circle, hsl(223, 90%, 16%), hsl(263, 90%, 6%));
+}
+
+.movieScreen {
+    width: 1000px;
+    height: 700px;
+    border-color: #f8f3f3;
+    margin: 50px auto;
+    background: linear-gradient(#61aef7, #45a1f7, #1880e2, #2c6fad, black, #222a31, #394755);
+    overflow: hidden;
+}
